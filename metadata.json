@@ -1,0 +1,5 @@
+{
+  "name": "PixelBead AI Studio",
+  "description": "专业级拼豆图纸生成器。将照片转换为像素艺术图纸或使用 AI 生成新设计。功能包括自定义色板、实时调整大小和色彩量化。",
+  "requestFramePermissions": []
+}
