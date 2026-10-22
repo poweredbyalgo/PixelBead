@@ -1,7 +1,7 @@
 
 import React from 'react';
-import { ProjectSettings } from '../types';
-import { PALETTES } from '../constants';
+import { ProjectSettings } from '@/types';
+import { PALETTES } from '@/constants';
 
 interface ControlsProps {
   settings: ProjectSettings;

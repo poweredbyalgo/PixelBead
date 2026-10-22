@@ -1,6 +1,6 @@
 
 import React, { useRef, useEffect, useState, useMemo, useLayoutEffect, forwardRef, useImperativeHandle } from 'react';
-import { AnalysisResult, PixelData } from '../types';
+import { AnalysisResult, PixelData } from '@/types';
 
 export interface BeadGridHandle {
     exportImage: () => void;

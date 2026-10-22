@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { AnalysisResult, BeadColor } from '../types';
+import { AnalysisResult, BeadColor } from '@/types';
 
 interface PaletteListProps {
   data: AnalysisResult | null;

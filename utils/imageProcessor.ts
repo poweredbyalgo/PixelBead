@@ -1,5 +1,5 @@
 
-import { BeadColor, PixelData, AnalysisResult, RGB } from '../types';
+import { BeadColor, PixelData, AnalysisResult, RGB } from '@/types';
 
 // Weighted Euclidean distance for better human color perception
 // Adjusted weights to prioritize color distinctiveness

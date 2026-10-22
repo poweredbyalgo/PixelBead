@@ -1,5 +1,5 @@
 
-import { BeadColor } from './types';
+import { BeadColor } from '@/types';
 
 // Helper to hex to RGB
 const h2r = (hex: string) => {

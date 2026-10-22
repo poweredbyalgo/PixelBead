@@ -1,11 +1,11 @@
 
 import React, { useState, useEffect, useRef } from 'react';
-import { PALETTES } from './constants';
-import { ProjectSettings, AnalysisResult } from './types';
-import { processImage } from './utils/imageProcessor';
-import { Controls } from './components/Controls';
-import { BeadGrid, BeadGridHandle } from './components/BeadGrid';
-import { PaletteList } from './components/PaletteList';
+import { PALETTES } from '@/constants';
+import { ProjectSettings, AnalysisResult } from '@/types';
+import { processImage } from '@/utils/imageProcessor';
+import { Controls } from '@/components/Controls';
+import { BeadGrid, BeadGridHandle } from '@/components/BeadGrid';
+import { PaletteList } from '@/components/PaletteList';
 
 const INITIAL_SETTINGS: ProjectSettings = {
   width: 50,
